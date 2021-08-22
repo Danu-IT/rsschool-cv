@@ -1,0 +1,188 @@
+h1{
+    font-size: 40px;  
+    letter-spacing: 7px;  
+}
+
+.profession{
+    font-size: 20px;
+    position: relative;
+    left:100px;
+    letter-spacing: 5px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    height: 200px;
+  }
+
+body{
+    background-color: #fffff0			;
+    color:#2f4f4f;
+    width: 1220px;
+    height: 1000px;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+}
+
+.ABOUT{
+    position: relative;
+    left: 70px;
+    top: 13px;
+    font-size: 25px;
+}
+
+.lin{
+    position: relative;
+    top:20px;
+}
+
+.text-me{
+    width: 280px;
+    position:relative;
+    top:30px;
+}
+
+.exp{
+    position: relative;
+    top:-130px;
+    left: 450px;
+}
+
+.text-exp{
+    font-size: 25px;
+    position: relative;
+    left: 70px;
+    top: -37px;
+}
+
+.lin-2{
+    position: relative;
+    bottom:30px;
+    right:0px;
+}
+
+.exp-set{
+    position: relative;
+    bottom: 150px;
+    left: 450px;
+}
+
+.exp-text{
+    position: relative;
+    left: 300px;
+    width: 660px;
+}
+
+.head{
+    font-size: 20px;
+    position: relative;
+    left: 300px;
+    bottom: 20px
+}
+
+.exp-head{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.exp-year{
+    position: relative;
+    bottom:35px;
+}
+
+.lin-3{
+    position: relative;
+    top:-25px;
+}
+
+.teleg{
+    position: relative;
+    left:0px;
+    top:-20px;
+}
+
+.vk{
+    position: relative;
+    left:0px;
+    top:-10px;
+}
+
+.mail{
+    position: relative;
+    left:40px;
+    top:-56px;
+}
+
+.ds{
+    position: relative;
+    left:37px;
+    top:-45px;
+}
+
+.experiences{
+    position: relative;
+    left:450px;
+    top:-200px;
+}
+
+.library{
+    position: relative;
+    bottom:-20px;
+    font-size: 20px;
+}
+
+.skills{
+    position: relative;
+    bottom:100px;
+}
+
+.js-name{
+    position: relative;
+    bottom:15px;
+}
+
+.pict{
+    position: relative;
+    bottom:33px;
+    left:130px;
+}
+
+.experiences-text{
+    position: relative;
+    left:450px;
+    bottom:340px;
+}
+
+.exp-text-1{
+    font-weight: bold;
+    position: relative;
+    left:100px;
+    bottom:32px;
+    width: 100px;
+}
+
+.lang-ru{
+    position: relative;
+    bottom:63px;
+    left:300px;
+}
+
+footer{
+    width: 1620px;
+    position: relative;
+    top:700px;
+    left:10px;
+    height: 100px;
+    
+}
+
+.year{
+    font-size: 50px;
+    position: relative;
+    left:150px; 
+    top:120px;
+}
