@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Danu-IT.github.io/rsschool-cv/cv
